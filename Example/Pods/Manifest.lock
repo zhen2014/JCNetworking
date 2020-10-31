@@ -1,0 +1,16 @@
+PODS:
+  - JCNetworking (0.1.0)
+
+DEPENDENCIES:
+  - JCNetworking (from `../`)
+
+EXTERNAL SOURCES:
+  JCNetworking:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JCNetworking: f0adee7b1f70121ccfa866fa5dba1ec124e4fa44
+
+PODFILE CHECKSUM: f4da30fc7bb1c2b75bb548afc425f975e507f8e6
+
+COCOAPODS: 1.6.1
